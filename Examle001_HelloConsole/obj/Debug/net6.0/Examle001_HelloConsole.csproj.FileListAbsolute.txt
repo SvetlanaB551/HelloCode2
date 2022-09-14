@@ -1,0 +1,15 @@
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/bin/Debug/net6.0/Examle001_HelloConsole
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/bin/Debug/net6.0/Examle001_HelloConsole.deps.json
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/bin/Debug/net6.0/Examle001_HelloConsole.runtimeconfig.json
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/bin/Debug/net6.0/Examle001_HelloConsole.dll
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/bin/Debug/net6.0/Examle001_HelloConsole.pdb
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.csproj.AssemblyReference.cache
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.AssemblyInfoInputs.cache
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.AssemblyInfo.cs
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.dll
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/refint/Examle001_HelloConsole.dll
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.pdb
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/Examle001_HelloConsole.genruntimeconfig.cache
+/Users/yoot/Desktop/Examples/Examle001_HelloConsole/obj/Debug/net6.0/ref/Examle001_HelloConsole.dll
